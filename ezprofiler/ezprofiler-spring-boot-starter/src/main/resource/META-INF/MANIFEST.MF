@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-api-1.7.25.jar spring-context-4.3.10.RELEASE.jar spr
+ ing-aop-4.3.10.RELEASE.jar spring-expression-4.3.10.RELEASE.jar sprin
+ g-beans-4.3.10.RELEASE.jar spring-web-4.3.10.RELEASE.jar commons-logg
+ ing-1.2.jar spring-core-4.3.10.RELEASE.jar spring-webmvc-4.3.10.RELEA
+ SE.jar
+

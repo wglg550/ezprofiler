@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact name="ezprofiler-spring-boot-starter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ezprofiler_spring_boot_starter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ezprofiler-spring-boot-starter.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/ezprofiler/ezprofiler-spring-boot-starter/src/main/resource/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="ezprofiler-spring-boot-starter" />
+      </element>
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.10.RELEASE" />
+    </root>
+  </artifact>
+</component>
